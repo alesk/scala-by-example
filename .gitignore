@@ -1,0 +1,5 @@
+*.swp
+.ensime
+.ensime-cache
+project
+target
